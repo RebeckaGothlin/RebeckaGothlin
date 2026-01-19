@@ -8,6 +8,8 @@ Frontend developer
 
 * 🌍  I'm based in Härnösand
 * ✉️  You can contact me at [rebecka.gothlin@hotmail.com](mailto:rebecka.gothlin@hotmail.com)
+[![Github](https://img.shields.io/badge/Rebecka%20Göthlin-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RebeckaGothlin) [![LinkdIn](https://img.shields.io/badge/Rebecka%20Göthlin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebecka-g%C3%B6thlin-963037280/)
+
 
 <a href="https://www.github.com/RebeckaGothlin" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/RebeckaGothlin?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
